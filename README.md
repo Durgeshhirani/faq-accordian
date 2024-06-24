@@ -1,3 +1,5 @@
+[![Deploy with Vercel](https://vercel.com/button)](https://faq-accordian-five.vercel.app)
+
 Live demo: https://faq-accordian-five.vercel.app
 # Frontend Mentor - FAQ accordion
 
